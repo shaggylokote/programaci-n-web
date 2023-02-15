@@ -1,2 +1,2 @@
-# programaci-n-web
-Trabajos 
+# Todos-los-codigos-JAGM-ISC-7-A
+Todos los codigos JAGM ISC 7-A
